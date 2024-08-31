@@ -37,7 +37,7 @@ To get started with this project, follow these steps:
 
 1. **Clone the Repository**:
    ```
-   git clone https://github.com/yourusername/tiktok_clone_flutter.git
+   git clone https://github.com/jibinkj-07/Tiktok-Clone.git
    ```
 2. Install Flutter: Ensure Flutter is installed on your machine. You can find installation instructions here.
 
